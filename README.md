@@ -6,6 +6,7 @@
 **Language:** C++17  
 
 ---
+Refer example.md for examples
 
 ## Overview
 This project is a comprehensive simulation of an Operating System's Memory Management Unit (MMU). It models the interaction between the CPU, Cache, and Main Memory, offering a detailed analysis of memory fragmentation, allocation efficiency, and cache hierarchy performance.
